@@ -10,7 +10,7 @@ npm init -y
 npm i parcel-bundler -D
 ```
 2) main.css -> main.scss 로 변환
-3) package.json 파일에서
+3) package.json
 ```json
 "scripts": {
     "dev": "parcel index.html",
